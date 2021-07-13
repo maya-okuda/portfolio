@@ -139,7 +139,7 @@ section {
   padding: 40px;
   height: 800px;
   background-color: #FFF;
-  color: #black;
+  color: #8E583D;
 }
 
 p.img_center{
@@ -149,13 +149,13 @@ p.img_center{
 
 section h1{
   margin-bottom: 1rem;
-  color: #8b4513;
+  color: #ED9C91;
   text-align: center;
 }
 
 footer{
   padding: 40px;
   text-align: center;
-  background-color: #d2b48c;
+  background-color: #EDB7AE;
   color: white;
 }
