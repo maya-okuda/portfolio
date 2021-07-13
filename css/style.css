@@ -99,7 +99,7 @@ header h1{
     top: 4rem;
     left: 0;
     width: 100%;
-    background-color: rgba(222,184,135,0.8);
+    background-color: rgba(255,228,225,0.8);
   }
 
     #MenuList ul {
@@ -109,7 +109,7 @@ header h1{
     #MenuList li{
       width: 100%;
       padding: 0;
-      border-bottom: 1px solid #d2b48c;
+      border-bottom: 1px solid #ffcccc;
     }
 
     #MenuList a{
@@ -120,7 +120,7 @@ header h1{
     }
 
     #MenuList a:hover {
-      background-color: #cc9966;
+      background-color: #F2AFA5;
       color: #FFF;
     }
 
@@ -137,20 +137,29 @@ header h1{
 
 section {
   padding: 40px;
-  height: 400px;
+  height: 300px;
   background-color: #FFF;
-  color: black;
+  color: #8E583D;
   margin-bottom: 40px;
+  text-align: center;
+}
+
+.name {
+    font-size:  17px;    /* 文字サイズ指定 */
+}
+.details {
+    font-size:  12px;    /* 文字サイズ指定 */
 }
 
 section h1{
   margin-bottom: 1rem;
-  color: #8b4513;
+  color: #ED9C91;
+  text-align: center;
 }
 
 footer{
   padding: 40px;
   text-align: center;
-  background-color: #d2b48c;
+  background-color: #EDB7AE;
   color: white;
 }
